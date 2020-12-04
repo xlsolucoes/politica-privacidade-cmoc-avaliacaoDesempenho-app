@@ -1,1 +1,3 @@
-# politica-privacidade-cmoc-avaliacaoDesempenho-app
+# Visão Geral de Privacidade
+## Aplicativo de Avaliação de Desempenho
+Este site usa cookies para melhorar sua experiência enquanto você navega pelo site. Destes cookies, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
